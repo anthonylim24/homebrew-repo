@@ -1,0 +1,11 @@
+# Anthonylim24 Repo
+
+## How do I install these formulae?
+
+`brew install anthonylim24/repo/<formula>`
+
+Or `brew tap anthonylim24/repo` and then `brew install <formula>`.
+
+## Documentation
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
